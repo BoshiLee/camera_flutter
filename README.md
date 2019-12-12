@@ -4,7 +4,7 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+你可以在 Medium 找到關於此篇的範例
 
 A few resources to get you started if this is your first Flutter project:
 
