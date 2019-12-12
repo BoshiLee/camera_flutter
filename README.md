@@ -4,13 +4,4 @@ A new Flutter application.
 
 ## Getting Started
 
-你可以在 Medium 找到關於此篇的範例
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+你可以在 [Notion](https://www.notion.so/Camera-a9017fd8263544c392213c98ad4cc69a) 找到關於此篇的範例
